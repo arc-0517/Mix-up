@@ -9,3 +9,4 @@ Experiment Results(Acc.) :
 * mixup - 86.75% (epoch 90)
 * <U>**cutmix - 88.10% (epoch 82)**</U>
 * manifold mixup - 84.80 - (epoch 70%)
+<U>밑줄</U>
